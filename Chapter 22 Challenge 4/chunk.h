@@ -1,0 +1,7 @@
+
+OP_METHOD,
+OP_SET_LOCAL_LONG,
+OP_GET_LOCAL_LONG,
+
+} OpCode;
+
